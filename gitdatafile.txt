@@ -1,0 +1,3 @@
+name=[anna,bhasu,kaka,Mama,Nana]
+for i in name:
+   print("My name is:",i)
